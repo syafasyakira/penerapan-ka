@@ -1,0 +1,47 @@
+{
+  "counts": {
+    "car": 2,
+    "motorcycle": 1,
+    "bus": 0,
+    "truck": 0
+  },
+  "total_vehicle": 3,
+  "brightness": 119.48,
+  "annotations": [
+    {
+      "bbox": [
+        708.58,
+        183.95,
+        747.73,
+        211.28
+      ],
+      "class": "car",
+      "confidence": 0.8352,
+      "removed": false
+    },
+    {
+      "bbox": [
+        389.29,
+        324.42,
+        450.3,
+        390.88
+      ],
+      "class": "motorcycle",
+      "confidence": 0.8106,
+      "removed": false
+    },
+    {
+      "bbox": [
+        720.71,
+        207.43,
+        784.1,
+        263.73
+      ],
+      "class": "car",
+      "confidence": 0.6974,
+      "removed": false
+    }
+  ],
+  "keep": 3,
+  "remove": 0
+}

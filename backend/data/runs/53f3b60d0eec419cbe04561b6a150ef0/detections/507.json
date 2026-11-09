@@ -1,0 +1,157 @@
+{
+  "counts": {
+    "car": 1,
+    "motorcycle": 9,
+    "bus": 0,
+    "truck": 0
+  },
+  "total_vehicle": 10,
+  "brightness": 95.54,
+  "annotations": [
+    {
+      "bbox": [
+        812.13,
+        203.14,
+        849.93,
+        237.39
+      ],
+      "class": "car",
+      "confidence": 0.7668,
+      "removed": false
+    },
+    {
+      "bbox": [
+        583.89,
+        265.39,
+        616.62,
+        309.87
+      ],
+      "class": "motorcycle",
+      "confidence": 0.6675,
+      "removed": false
+    },
+    {
+      "bbox": [
+        716.34,
+        253.98,
+        739.23,
+        293.93
+      ],
+      "class": "motorcycle",
+      "confidence": 0.5533,
+      "removed": false
+    },
+    {
+      "bbox": [
+        514.69,
+        254.96,
+        545.68,
+        292.42
+      ],
+      "class": "motorcycle",
+      "confidence": 0.4919,
+      "removed": false
+    },
+    {
+      "bbox": [
+        524.21,
+        317.76,
+        574.13,
+        382.36
+      ],
+      "class": "motorcycle",
+      "confidence": 0.4622,
+      "removed": false
+    },
+    {
+      "bbox": [
+        635.99,
+        227.71,
+        658.96,
+        264.26
+      ],
+      "class": "motorcycle",
+      "confidence": 0.3932,
+      "removed": false
+    },
+    {
+      "bbox": [
+        449.23,
+        312.42,
+        497.26,
+        370.3
+      ],
+      "class": "motorcycle",
+      "confidence": 0.2849,
+      "removed": false
+    },
+    {
+      "bbox": [
+        646.04,
+        276.96,
+        664.82,
+        323.35
+      ],
+      "class": "motorcycle",
+      "confidence": 0.2099,
+      "removed": false
+    },
+    {
+      "bbox": [
+        776.69,
+        208.99,
+        801.18,
+        240.66
+      ],
+      "class": "motorcycle",
+      "confidence": 0.1564,
+      "removed": false
+    },
+    {
+      "bbox": [
+        645.11,
+        257.62,
+        677.9,
+        323.52
+      ],
+      "class": "motorcycle",
+      "confidence": 0.1274,
+      "removed": true
+    },
+    {
+      "bbox": [
+        525.89,
+        327.52,
+        563.38,
+        380.26
+      ],
+      "class": "motorcycle",
+      "confidence": 0.1171,
+      "removed": true
+    },
+    {
+      "bbox": [
+        661.83,
+        252.22,
+        685.89,
+        300.28
+      ],
+      "class": "motorcycle",
+      "confidence": 0.116,
+      "removed": false
+    },
+    {
+      "bbox": [
+        448.41,
+        314.89,
+        473.6,
+        376.06
+      ],
+      "class": "motorcycle",
+      "confidence": 0.1071,
+      "removed": true
+    }
+  ],
+  "keep": 10,
+  "remove": 3
+}

@@ -1,0 +1,124 @@
+{
+  "counts": {
+    "car": 0,
+    "motorcycle": 7,
+    "bus": 0,
+    "truck": 1
+  },
+  "total_vehicle": 8,
+  "brightness": 99.56,
+  "annotations": [
+    {
+      "bbox": [
+        575.73,
+        266.1,
+        611.74,
+        334.26
+      ],
+      "class": "motorcycle",
+      "confidence": 0.5313,
+      "removed": false
+    },
+    {
+      "bbox": [
+        506.23,
+        353.79,
+        565.64,
+        419.54
+      ],
+      "class": "motorcycle",
+      "confidence": 0.4326,
+      "removed": false
+    },
+    {
+      "bbox": [
+        633.21,
+        230.09,
+        671.74,
+        296.35
+      ],
+      "class": "motorcycle",
+      "confidence": 0.4048,
+      "removed": false
+    },
+    {
+      "bbox": [
+        728.83,
+        223.08,
+        748.61,
+        255.91
+      ],
+      "class": "motorcycle",
+      "confidence": 0.3506,
+      "removed": false
+    },
+    {
+      "bbox": [
+        821.74,
+        265.79,
+        848.47,
+        312.49
+      ],
+      "class": "motorcycle",
+      "confidence": 0.2412,
+      "removed": false
+    },
+    {
+      "bbox": [
+        568.98,
+        525.0,
+        746.59,
+        736.29
+      ],
+      "class": "truck",
+      "confidence": 0.2039,
+      "removed": false
+    },
+    {
+      "bbox": [
+        799.19,
+        175.63,
+        822.21,
+        205.65
+      ],
+      "class": "motorcycle",
+      "confidence": 0.1916,
+      "removed": false
+    },
+    {
+      "bbox": [
+        575.92,
+        286.93,
+        611.36,
+        335.05
+      ],
+      "class": "motorcycle",
+      "confidence": 0.1793,
+      "removed": true
+    },
+    {
+      "bbox": [
+        593.6,
+        259.83,
+        620.45,
+        304.47
+      ],
+      "class": "motorcycle",
+      "confidence": 0.1526,
+      "removed": false
+    },
+    {
+      "bbox": [
+        506.16,
+        319.31,
+        567.38,
+        418.44
+      ],
+      "class": "motorcycle",
+      "confidence": 0.1061,
+      "removed": true
+    }
+  ],
+  "keep": 8,
+  "remove": 2
+}

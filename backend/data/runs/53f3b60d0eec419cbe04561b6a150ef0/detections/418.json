@@ -1,0 +1,124 @@
+{
+  "counts": {
+    "car": 7,
+    "motorcycle": 0,
+    "bus": 0,
+    "truck": 0
+  },
+  "total_vehicle": 7,
+  "brightness": 87.41,
+  "annotations": [
+    {
+      "bbox": [
+        717.85,
+        229.34,
+        800.8,
+        308.25
+      ],
+      "class": "car",
+      "confidence": 0.7176,
+      "removed": false
+    },
+    {
+      "bbox": [
+        509.72,
+        258.63,
+        633.43,
+        356.32
+      ],
+      "class": "car",
+      "confidence": 0.7048,
+      "removed": false
+    },
+    {
+      "bbox": [
+        641.66,
+        209.03,
+        721.81,
+        276.66
+      ],
+      "class": "car",
+      "confidence": 0.6896,
+      "removed": false
+    },
+    {
+      "bbox": [
+        606.69,
+        200.06,
+        678.77,
+        252.96
+      ],
+      "class": "car",
+      "confidence": 0.5525,
+      "removed": false
+    },
+    {
+      "bbox": [
+        340.72,
+        252.14,
+        493.99,
+        341.16
+      ],
+      "class": "car",
+      "confidence": 0.3946,
+      "removed": false
+    },
+    {
+      "bbox": [
+        698.9,
+        189.79,
+        740.69,
+        221.31
+      ],
+      "class": "car",
+      "confidence": 0.3331,
+      "removed": false
+    },
+    {
+      "bbox": [
+        338.38,
+        251.57,
+        495.14,
+        347.11
+      ],
+      "class": "truck",
+      "confidence": 0.2608,
+      "removed": true
+    },
+    {
+      "bbox": [
+        394.08,
+        255.13,
+        493.53,
+        333.99
+      ],
+      "class": "car",
+      "confidence": 0.1908,
+      "removed": true
+    },
+    {
+      "bbox": [
+        781.16,
+        189.2,
+        809.37,
+        211.23
+      ],
+      "class": "car",
+      "confidence": 0.1629,
+      "removed": false
+    },
+    {
+      "bbox": [
+        606.9,
+        218.65,
+        649.49,
+        252.95
+      ],
+      "class": "car",
+      "confidence": 0.109,
+      "removed": true
+    }
+  ],
+  "keep": 7,
+  "remove": 3
+}

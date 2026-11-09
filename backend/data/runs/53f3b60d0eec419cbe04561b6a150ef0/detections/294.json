@@ -1,0 +1,36 @@
+{
+  "counts": {
+    "car": 2,
+    "motorcycle": 0,
+    "bus": 0,
+    "truck": 0
+  },
+  "total_vehicle": 2,
+  "brightness": 41.12,
+  "annotations": [
+    {
+      "bbox": [
+        150.62,
+        344.37,
+        179.09,
+        366.78
+      ],
+      "class": "car",
+      "confidence": 0.6511,
+      "removed": false
+    },
+    {
+      "bbox": [
+        20.43,
+        419.56,
+        60.3,
+        450.77
+      ],
+      "class": "car",
+      "confidence": 0.1434,
+      "removed": false
+    }
+  ],
+  "keep": 2,
+  "remove": 0
+}

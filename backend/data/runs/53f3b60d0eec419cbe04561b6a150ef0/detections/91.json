@@ -1,0 +1,179 @@
+{
+  "counts": {
+    "car": 8,
+    "motorcycle": 3,
+    "bus": 0,
+    "truck": 0
+  },
+  "total_vehicle": 11,
+  "brightness": 81.08,
+  "annotations": [
+    {
+      "bbox": [
+        181.55,
+        382.52,
+        379.39,
+        526.64
+      ],
+      "class": "car",
+      "confidence": 0.8537,
+      "removed": false
+    },
+    {
+      "bbox": [
+        628.77,
+        305.66,
+        712.43,
+        367.3
+      ],
+      "class": "car",
+      "confidence": 0.8248,
+      "removed": false
+    },
+    {
+      "bbox": [
+        803.99,
+        288.93,
+        852.49,
+        332.21
+      ],
+      "class": "car",
+      "confidence": 0.8131,
+      "removed": false
+    },
+    {
+      "bbox": [
+        237.3,
+        444.02,
+        509.34,
+        685.68
+      ],
+      "class": "car",
+      "confidence": 0.7836,
+      "removed": false
+    },
+    {
+      "bbox": [
+        782.12,
+        269.57,
+        821.98,
+        303.04
+      ],
+      "class": "car",
+      "confidence": 0.6805,
+      "removed": false
+    },
+    {
+      "bbox": [
+        769.4,
+        264.27,
+        798.12,
+        289.06
+      ],
+      "class": "car",
+      "confidence": 0.4239,
+      "removed": false
+    },
+    {
+      "bbox": [
+        827.69,
+        269.6,
+        858.04,
+        299.56
+      ],
+      "class": "car",
+      "confidence": 0.2848,
+      "removed": false
+    },
+    {
+      "bbox": [
+        243.49,
+        564.86,
+        402.63,
+        684.49
+      ],
+      "class": "car",
+      "confidence": 0.2749,
+      "removed": true
+    },
+    {
+      "bbox": [
+        483.19,
+        381.1,
+        519.07,
+        437.53
+      ],
+      "class": "motorcycle",
+      "confidence": 0.2691,
+      "removed": false
+    },
+    {
+      "bbox": [
+        644.14,
+        283.09,
+        687.65,
+        306.18
+      ],
+      "class": "car",
+      "confidence": 0.1752,
+      "removed": false
+    },
+    {
+      "bbox": [
+        566.45,
+        304.2,
+        603.53,
+        355.83
+      ],
+      "class": "motorcycle",
+      "confidence": 0.1667,
+      "removed": false
+    },
+    {
+      "bbox": [
+        447.51,
+        352.8,
+        489.91,
+        410.52
+      ],
+      "class": "motorcycle",
+      "confidence": 0.1416,
+      "removed": false
+    },
+    {
+      "bbox": [
+        566.04,
+        329.54,
+        592.53,
+        355.61
+      ],
+      "class": "motorcycle",
+      "confidence": 0.1258,
+      "removed": true
+    },
+    {
+      "bbox": [
+        644.22,
+        278.19,
+        697.9,
+        306.75
+      ],
+      "class": "car",
+      "confidence": 0.1075,
+      "removed": true
+    },
+    {
+      "bbox": [
+        483.65,
+        385.41,
+        509.66,
+        436.5
+      ],
+      "class": "motorcycle",
+      "confidence": 0.1008,
+      "removed": true
+    }
+  ],
+  "keep": 11,
+  "remove": 4
+}

@@ -1,0 +1,124 @@
+{
+  "counts": {
+    "car": 6,
+    "motorcycle": 2,
+    "bus": 0,
+    "truck": 0
+  },
+  "total_vehicle": 8,
+  "brightness": 92.82,
+  "annotations": [
+    {
+      "bbox": [
+        453.23,
+        253.4,
+        582.42,
+        341.47
+      ],
+      "class": "car",
+      "confidence": 0.8572,
+      "removed": false
+    },
+    {
+      "bbox": [
+        778.08,
+        183.52,
+        809.8,
+        212.33
+      ],
+      "class": "car",
+      "confidence": 0.7712,
+      "removed": false
+    },
+    {
+      "bbox": [
+        640.95,
+        294.5,
+        673.04,
+        341.67
+      ],
+      "class": "motorcycle",
+      "confidence": 0.6673,
+      "removed": false
+    },
+    {
+      "bbox": [
+        678.85,
+        195.6,
+        723.58,
+        237.99
+      ],
+      "class": "car",
+      "confidence": 0.6026,
+      "removed": false
+    },
+    {
+      "bbox": [
+        824.32,
+        180.33,
+        858.48,
+        207.6
+      ],
+      "class": "car",
+      "confidence": 0.4519,
+      "removed": false
+    },
+    {
+      "bbox": [
+        718.7,
+        180.82,
+        759.29,
+        205.65
+      ],
+      "class": "car",
+      "confidence": 0.3143,
+      "removed": false
+    },
+    {
+      "bbox": [
+        578.65,
+        185.37,
+        609.99,
+        209.42
+      ],
+      "class": "car",
+      "confidence": 0.2318,
+      "removed": false
+    },
+    {
+      "bbox": [
+        620.18,
+        275.0,
+        650.4,
+        313.86
+      ],
+      "class": "motorcycle",
+      "confidence": 0.2241,
+      "removed": false
+    },
+    {
+      "bbox": [
+        718.5,
+        179.83,
+        772.36,
+        208.75
+      ],
+      "class": "car",
+      "confidence": 0.1802,
+      "removed": true
+    },
+    {
+      "bbox": [
+        620.58,
+        267.09,
+        668.85,
+        313.43
+      ],
+      "class": "motorcycle",
+      "confidence": 0.1645,
+      "removed": true
+    }
+  ],
+  "keep": 8,
+  "remove": 2
+}

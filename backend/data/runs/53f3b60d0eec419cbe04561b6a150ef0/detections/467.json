@@ -1,0 +1,13 @@
+{
+  "counts": {
+    "car": 0,
+    "motorcycle": 0,
+    "bus": 0,
+    "truck": 0
+  },
+  "total_vehicle": 0,
+  "brightness": 111.73,
+  "annotations": [],
+  "keep": 0,
+  "remove": 0
+}

@@ -1,0 +1,124 @@
+{
+  "counts": {
+    "car": 3,
+    "motorcycle": 3,
+    "bus": 0,
+    "truck": 1
+  },
+  "total_vehicle": 7,
+  "brightness": 89.35,
+  "annotations": [
+    {
+      "bbox": [
+        747.23,
+        276.53,
+        774.77,
+        300.23
+      ],
+      "class": "car",
+      "confidence": 0.7134,
+      "removed": false
+    },
+    {
+      "bbox": [
+        764.9,
+        393.5,
+        792.87,
+        446.54
+      ],
+      "class": "motorcycle",
+      "confidence": 0.713,
+      "removed": false
+    },
+    {
+      "bbox": [
+        621.69,
+        331.6,
+        645.9,
+        366.06
+      ],
+      "class": "motorcycle",
+      "confidence": 0.6378,
+      "removed": false
+    },
+    {
+      "bbox": [
+        116.93,
+        372.39,
+        379.92,
+        563.44
+      ],
+      "class": "truck",
+      "confidence": 0.6117,
+      "removed": false
+    },
+    {
+      "bbox": [
+        484.76,
+        439.31,
+        547.09,
+        523.62
+      ],
+      "class": "motorcycle",
+      "confidence": 0.5717,
+      "removed": false
+    },
+    {
+      "bbox": [
+        116.73,
+        403.51,
+        276.67,
+        565.22
+      ],
+      "class": "truck",
+      "confidence": 0.3792,
+      "removed": true
+    },
+    {
+      "bbox": [
+        323.33,
+        451.2,
+        406.35,
+        554.07
+      ],
+      "class": "motorcycle",
+      "confidence": 0.3565,
+      "removed": true
+    },
+    {
+      "bbox": [
+        68.73,
+        353.09,
+        106.14,
+        384.36
+      ],
+      "class": "car",
+      "confidence": 0.1855,
+      "removed": false
+    },
+    {
+      "bbox": [
+        786.53,
+        275.06,
+        814.83,
+        296.77
+      ],
+      "class": "car",
+      "confidence": 0.1776,
+      "removed": false
+    },
+    {
+      "bbox": [
+        117.39,
+        404.01,
+        276.51,
+        564.28
+      ],
+      "class": "car",
+      "confidence": 0.1538,
+      "removed": true
+    }
+  ],
+  "keep": 7,
+  "remove": 3
+}

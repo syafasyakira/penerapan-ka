@@ -1,0 +1,146 @@
+{
+  "counts": {
+    "car": 4,
+    "motorcycle": 2,
+    "bus": 0,
+    "truck": 1
+  },
+  "total_vehicle": 7,
+  "brightness": 99.2,
+  "annotations": [
+    {
+      "bbox": [
+        742.54,
+        250.08,
+        763.75,
+        286.44
+      ],
+      "class": "motorcycle",
+      "confidence": 0.6,
+      "removed": false
+    },
+    {
+      "bbox": [
+        576.73,
+        238.84,
+        694.37,
+        332.32
+      ],
+      "class": "truck",
+      "confidence": 0.5548,
+      "removed": false
+    },
+    {
+      "bbox": [
+        640.7,
+        324.15,
+        677.75,
+        374.64
+      ],
+      "class": "motorcycle",
+      "confidence": 0.4436,
+      "removed": false
+    },
+    {
+      "bbox": [
+        576.55,
+        238.77,
+        694.42,
+        331.57
+      ],
+      "class": "car",
+      "confidence": 0.4174,
+      "removed": true
+    },
+    {
+      "bbox": [
+        754.97,
+        188.88,
+        786.71,
+        211.54
+      ],
+      "class": "car",
+      "confidence": 0.3862,
+      "removed": false
+    },
+    {
+      "bbox": [
+        409.43,
+        382.16,
+        466.98,
+        425.28
+      ],
+      "class": "car",
+      "confidence": 0.3567,
+      "removed": false
+    },
+    {
+      "bbox": [
+        650.04,
+        194.29,
+        701.62,
+        232.3
+      ],
+      "class": "car",
+      "confidence": 0.3017,
+      "removed": false
+    },
+    {
+      "bbox": [
+        814.37,
+        169.63,
+        841.4,
+        195.04
+      ],
+      "class": "car",
+      "confidence": 0.2751,
+      "removed": false
+    },
+    {
+      "bbox": [
+        744.34,
+        186.02,
+        788.0,
+        210.99
+      ],
+      "class": "car",
+      "confidence": 0.2308,
+      "removed": true
+    },
+    {
+      "bbox": [
+        650.03,
+        194.33,
+        701.12,
+        232.38
+      ],
+      "class": "truck",
+      "confidence": 0.2089,
+      "removed": true
+    },
+    {
+      "bbox": [
+        736.12,
+        181.97,
+        786.97,
+        210.37
+      ],
+      "class": "car",
+      "confidence": 0.114,
+      "removed": true
+    },
+    {
+      "bbox": [
+        384.26,
+        381.73,
+        466.77,
+        431.28
+      ],
+      "class": "truck",
+      "confidence": 0.1123,
+      "removed": true
+    }
+  ],
+  "keep": 7,
+  "remove": 5
+}

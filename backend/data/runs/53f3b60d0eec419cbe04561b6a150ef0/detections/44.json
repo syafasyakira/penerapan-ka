@@ -1,0 +1,124 @@
+{
+  "counts": {
+    "car": 6,
+    "motorcycle": 2,
+    "bus": 0,
+    "truck": 0
+  },
+  "total_vehicle": 8,
+  "brightness": 87.26,
+  "annotations": [
+    {
+      "bbox": [
+        777.75,
+        276.84,
+        809.25,
+        299.96
+      ],
+      "class": "car",
+      "confidence": 0.7986,
+      "removed": false
+    },
+    {
+      "bbox": [
+        766.91,
+        334.71,
+        836.58,
+        409.4
+      ],
+      "class": "car",
+      "confidence": 0.4887,
+      "removed": false
+    },
+    {
+      "bbox": [
+        827.93,
+        284.02,
+        856.55,
+        308.59
+      ],
+      "class": "car",
+      "confidence": 0.399,
+      "removed": false
+    },
+    {
+      "bbox": [
+        786.25,
+        317.19,
+        833.39,
+        342.42
+      ],
+      "class": "car",
+      "confidence": 0.2737,
+      "removed": false
+    },
+    {
+      "bbox": [
+        798.04,
+        263.85,
+        820.11,
+        291.2
+      ],
+      "class": "car",
+      "confidence": 0.1777,
+      "removed": false
+    },
+    {
+      "bbox": [
+        414.62,
+        385.18,
+        441.17,
+        431.32
+      ],
+      "class": "motorcycle",
+      "confidence": 0.1597,
+      "removed": false
+    },
+    {
+      "bbox": [
+        781.6,
+        316.29,
+        834.53,
+        350.32
+      ],
+      "class": "car",
+      "confidence": 0.1565,
+      "removed": true
+    },
+    {
+      "bbox": [
+        828.74,
+        273.36,
+        856.25,
+        309.28
+      ],
+      "class": "car",
+      "confidence": 0.1538,
+      "removed": true
+    },
+    {
+      "bbox": [
+        435.91,
+        407.78,
+        488.1,
+        457.86
+      ],
+      "class": "motorcycle",
+      "confidence": 0.151,
+      "removed": false
+    },
+    {
+      "bbox": [
+        101.37,
+        354.79,
+        156.82,
+        394.1
+      ],
+      "class": "car",
+      "confidence": 0.1392,
+      "removed": false
+    }
+  ],
+  "keep": 8,
+  "remove": 2
+}

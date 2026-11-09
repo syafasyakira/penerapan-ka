@@ -1,0 +1,124 @@
+{
+  "counts": {
+    "car": 4,
+    "motorcycle": 0,
+    "bus": 0,
+    "truck": 1
+  },
+  "total_vehicle": 5,
+  "brightness": 94.74,
+  "annotations": [
+    {
+      "bbox": [
+        607.13,
+        324.87,
+        717.29,
+        414.23
+      ],
+      "class": "truck",
+      "confidence": 0.3912,
+      "removed": false
+    },
+    {
+      "bbox": [
+        762.12,
+        340.31,
+        837.95,
+        417.57
+      ],
+      "class": "car",
+      "confidence": 0.3611,
+      "removed": false
+    },
+    {
+      "bbox": [
+        606.86,
+        325.1,
+        717.03,
+        414.46
+      ],
+      "class": "car",
+      "confidence": 0.3002,
+      "removed": true
+    },
+    {
+      "bbox": [
+        761.78,
+        326.18,
+        855.16,
+        418.01
+      ],
+      "class": "car",
+      "confidence": 0.2385,
+      "removed": true
+    },
+    {
+      "bbox": [
+        761.65,
+        330.26,
+        854.04,
+        417.76
+      ],
+      "class": "truck",
+      "confidence": 0.1963,
+      "removed": true
+    },
+    {
+      "bbox": [
+        266.24,
+        396.55,
+        300.9,
+        419.56
+      ],
+      "class": "car",
+      "confidence": 0.1652,
+      "removed": false
+    },
+    {
+      "bbox": [
+        271.77,
+        393.78,
+        302.84,
+        416.43
+      ],
+      "class": "car",
+      "confidence": 0.1416,
+      "removed": true
+    },
+    {
+      "bbox": [
+        145.31,
+        438.21,
+        184.31,
+        468.82
+      ],
+      "class": "car",
+      "confidence": 0.1342,
+      "removed": false
+    },
+    {
+      "bbox": [
+        178.18,
+        430.05,
+        209.33,
+        455.68
+      ],
+      "class": "car",
+      "confidence": 0.1118,
+      "removed": false
+    },
+    {
+      "bbox": [
+        761.8,
+        327.74,
+        854.69,
+        418.02
+      ],
+      "class": "bus",
+      "confidence": 0.111,
+      "removed": true
+    }
+  ],
+  "keep": 5,
+  "remove": 5
+}

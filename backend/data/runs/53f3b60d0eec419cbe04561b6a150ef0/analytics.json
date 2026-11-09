@@ -1,0 +1,153 @@
+{
+  "hourly": [
+    {
+      "hour": 0,
+      "mean": 1.7727272727272727,
+      "count": 22,
+      "total": 39
+    },
+    {
+      "hour": 1,
+      "mean": 0.85,
+      "count": 20,
+      "total": 17
+    },
+    {
+      "hour": 2,
+      "mean": 0.45,
+      "count": 20,
+      "total": 9
+    },
+    {
+      "hour": 3,
+      "mean": 0.45,
+      "count": 20,
+      "total": 9
+    },
+    {
+      "hour": 4,
+      "mean": 0.5454545454545454,
+      "count": 22,
+      "total": 12
+    },
+    {
+      "hour": 5,
+      "mean": 1.4,
+      "count": 20,
+      "total": 28
+    },
+    {
+      "hour": 6,
+      "mean": 6.904761904761905,
+      "count": 21,
+      "total": 145
+    },
+    {
+      "hour": 7,
+      "mean": 3.75,
+      "count": 28,
+      "total": 105
+    },
+    {
+      "hour": 8,
+      "mean": 3.652173913043478,
+      "count": 23,
+      "total": 84
+    },
+    {
+      "hour": 9,
+      "mean": 3.95,
+      "count": 20,
+      "total": 79
+    },
+    {
+      "hour": 10,
+      "mean": 4.363636363636363,
+      "count": 22,
+      "total": 96
+    },
+    {
+      "hour": 11,
+      "mean": 5.571428571428571,
+      "count": 21,
+      "total": 117
+    },
+    {
+      "hour": 12,
+      "mean": 4.478260869565218,
+      "count": 23,
+      "total": 103
+    },
+    {
+      "hour": 13,
+      "mean": 6.095238095238095,
+      "count": 21,
+      "total": 128
+    },
+    {
+      "hour": 14,
+      "mean": 4.739130434782608,
+      "count": 23,
+      "total": 109
+    },
+    {
+      "hour": 15,
+      "mean": 7.615384615384615,
+      "count": 26,
+      "total": 198
+    },
+    {
+      "hour": 16,
+      "mean": 7.321428571428571,
+      "count": 28,
+      "total": 205
+    },
+    {
+      "hour": 17,
+      "mean": 6.090909090909091,
+      "count": 22,
+      "total": 134
+    },
+    {
+      "hour": 18,
+      "mean": 2.4782608695652173,
+      "count": 23,
+      "total": 57
+    },
+    {
+      "hour": 19,
+      "mean": 3.7,
+      "count": 20,
+      "total": 74
+    },
+    {
+      "hour": 20,
+      "mean": 2.4545454545454546,
+      "count": 22,
+      "total": 54
+    },
+    {
+      "hour": 21,
+      "mean": 1.34375,
+      "count": 32,
+      "total": 43
+    },
+    {
+      "hour": 22,
+      "mean": 1.4,
+      "count": 20,
+      "total": 28
+    },
+    {
+      "hour": 23,
+      "mean": 1.4,
+      "count": 20,
+      "total": 28
+    }
+  ],
+  "distribution": {
+    "Sepi": 174,
+    "Sedang": 237,
+    "Ramai": 128
+  }
+}

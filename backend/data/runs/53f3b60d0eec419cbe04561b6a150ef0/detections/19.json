@@ -1,0 +1,135 @@
+{
+  "counts": {
+    "car": 7,
+    "motorcycle": 1,
+    "bus": 0,
+    "truck": 0
+  },
+  "total_vehicle": 8,
+  "brightness": 92.01,
+  "annotations": [
+    {
+      "bbox": [
+        766.26,
+        198.07,
+        808.92,
+        234.96
+      ],
+      "class": "car",
+      "confidence": 0.8356,
+      "removed": false
+    },
+    {
+      "bbox": [
+        676.92,
+        188.94,
+        721.19,
+        229.64
+      ],
+      "class": "car",
+      "confidence": 0.7175,
+      "removed": false
+    },
+    {
+      "bbox": [
+        408.21,
+        306.09,
+        631.22,
+        487.59
+      ],
+      "class": "car",
+      "confidence": 0.5713,
+      "removed": false
+    },
+    {
+      "bbox": [
+        408.11,
+        306.88,
+        631.27,
+        487.71
+      ],
+      "class": "truck",
+      "confidence": 0.5031,
+      "removed": true
+    },
+    {
+      "bbox": [
+        738.97,
+        185.26,
+        772.88,
+        215.55
+      ],
+      "class": "car",
+      "confidence": 0.4864,
+      "removed": false
+    },
+    {
+      "bbox": [
+        577.42,
+        181.24,
+        620.22,
+        211.09
+      ],
+      "class": "car",
+      "confidence": 0.2981,
+      "removed": false
+    },
+    {
+      "bbox": [
+        236.8,
+        398.97,
+        332.79,
+        488.84
+      ],
+      "class": "motorcycle",
+      "confidence": 0.158,
+      "removed": false
+    },
+    {
+      "bbox": [
+        738.58,
+        184.87,
+        787.77,
+        215.34
+      ],
+      "class": "car",
+      "confidence": 0.1398,
+      "removed": true
+    },
+    {
+      "bbox": [
+        577.16,
+        181.75,
+        608.66,
+        210.11
+      ],
+      "class": "car",
+      "confidence": 0.1281,
+      "removed": true
+    },
+    {
+      "bbox": [
+        647.65,
+        242.14,
+        673.21,
+        300.31
+      ],
+      "class": "car",
+      "confidence": 0.1206,
+      "removed": false
+    },
+    {
+      "bbox": [
+        616.1,
+        182.19,
+        650.83,
+        199.8
+      ],
+      "class": "car",
+      "confidence": 0.1166,
+      "removed": false
+    }
+  ],
+  "keep": 8,
+  "remove": 3
+}
